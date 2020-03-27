@@ -10,5 +10,4 @@ export class Unit
     Transport: string;
     Type: string;
     Rarity: string;
-    Image: string;
 }
